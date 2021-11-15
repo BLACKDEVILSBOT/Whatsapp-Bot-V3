@@ -1,5 +1,5 @@
 const Ktb = require('../events');
-const {MessageType} = require('@adiwajshing/baileys');
+const {MessageType} = require('@BLACKDEVILSBOTS');
 const exec = require('child_process').exec;
 const os = require("os");
 const fs = require('fs');
