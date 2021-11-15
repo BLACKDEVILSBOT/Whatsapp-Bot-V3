@@ -1,4 +1,4 @@
-Password 👇🏻
+Password :
 afamk
 
   ### Simple Method
