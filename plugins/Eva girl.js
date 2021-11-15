@@ -1,4 +1,4 @@
-/* Codded by Phaticusthiccy
+/* Codded by BLACKDEVILSBOT
 eva artificial intelligence was codded by Phaticusthiccy
 also 90% of thise code is done by Phaticusthiccy
 re-coded or modified by afnanplk
