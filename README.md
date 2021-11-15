@@ -46,7 +46,7 @@ and at the end WhatsApp Team deleted your account. DON'T BLAME US.
 ## Developer
   <div align="center">
     
-  [![Farhan-Dqz](https://github.com/BLACKDEVILSBOT.png?size=100)](https://github.com/BLACKDEVILSBOT)
+  [![BLACK DEVIL](https://github.com/BLACKDEVILSBOT.png?size=100)](https://github.com/BLACKDEVILSBOT)
 ----|----|----|----
 [Black-devil](https://github.com/BLACKDEVILSBOT) 
 Developer, Base, Bug Fixes, Modules| Re-Developer, Bug Fixes, Modules, Commits |  Modifiying  as   public | Bug Fixes, Modules 
