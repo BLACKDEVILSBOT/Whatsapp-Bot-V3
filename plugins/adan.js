@@ -1,4 +1,4 @@
-/* Codded by @mrclfd // rapiUp
+/* Codded by @BLACKDEVILSBOT
 Telegram: t.me/mrclfd
 Semoga Berfaedah dan Berkah :)
 */
